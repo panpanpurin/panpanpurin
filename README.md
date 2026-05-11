@@ -15,7 +15,7 @@
 <div align="center" style="margin: 40px 0;">
   <h3>🛠️ Technologies & Tools</h3>
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="38" alt="HTML5" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38" alt="CSS3" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript">
