@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Divergence Meter -->
-  <img src="https://tenor.com/view/steins-gate-divergence-meter-gif-11648177079793850530" width="600" alt="Steins;Gate Divergence Meter">
+  <img src="https://tenor.com/n2CWbJUvFiE.gif" 
+       width="620" 
+       alt="Steins;Gate Divergence Meter">
 
   <h2>El Psy Kongroo ⏳</h2>
   <h3>World Line: 1.048596</h3>
