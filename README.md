@@ -1,17 +1,18 @@
 <div align="center">
   <h1 style="font-family: monospace; letter-spacing: 3px;">El Psy Kongroo ⏳</h1>
   
-  <h3 style="font-family: 'Courier New', Courier, monospace; 
-             letter-spacing: 1px; 
-             line-height: 1.7; 
-             max-width: 820px; 
-             margin: 25px auto;">
-    The universe has a beginning, but no end.
+  <p style="font-family: 'Courier New', Courier, monospace;
+            letter-spacing: 1px;
+            line-height: 1.8;
+            max-width: 820px;
+            margin: 30px auto;
+            font-size: 1.1em;">
+    The universe has a beginning, but no end.<br>
     <span style="color: #ffeb3b; font-family: Georgia, serif; font-weight: bold;">— Infinity.</span><br><br>
     
-    Stars, too, have their own beginnings, but their own power results in their destruction. 
+    Stars, too, have their own beginnings, but their own power results in their destruction.<br>
     <span style="color: #ffeb3b; font-family: Georgia, serif; font-weight: bold;">— Finite.</span>
-  </h3>
+  </p>
   
   <!-- Divergence Meter -->
   <img src="https://tenor.com/n2CWbJUvFiE.gif" 
