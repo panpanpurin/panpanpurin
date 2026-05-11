@@ -1,9 +1,16 @@
 <div align="center">
-  <h1>El Psy Kongroo ⏳</h1>
+  <h1 style="font-family: monospace; letter-spacing: 3px;">El Psy Kongroo ⏳</h1>
   
-  <h3>
-    <em>There is no end though there is a start in space. — Infinity.<br>
-    It has (its) own power, it ruins, and it goes though there is a start also in the star. — Finite.</em>
+  <h3 style="font-family: 'Courier New', Courier, monospace; 
+             letter-spacing: 1px; 
+             line-height: 1.7; 
+             max-width: 820px; 
+             margin: 25px auto;">
+    The universe has a beginning, but no end.
+    <span style="color: #ffeb3b; font-family: Georgia, serif; font-weight: bold;">— Infinity.</span><br><br>
+    
+    Stars, too, have their own beginnings, but their own power results in their destruction. 
+    <span style="color: #ffeb3b; font-family: Georgia, serif; font-weight: bold;">— Finite.</span>
   </h3>
   
   <!-- Divergence Meter -->
