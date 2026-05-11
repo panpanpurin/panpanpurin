@@ -1,5 +1,11 @@
 <div align="center">
-
+  <h1>El Psy Kongroo ⏳</h1>
+  
+  <h3>
+    <em>There is no end though there is a start in space. — Infinity.<br>
+    It has (its) own power, it ruins, and it goes though there is a start also in the star. — Finite.</em>
+  </h3>
+  
   <!-- Divergence Meter -->
   <img src="https://tenor.com/n2CWbJUvFiE.gif" 
        width="620" 
@@ -8,7 +14,7 @@
 </div>
   
 <div align="center" style="margin: 30px 0;">
-  <h3>🛠️ Technologies & Tools</h3>
+  <h3>Technologies & Tools</h3>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 18px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5">
