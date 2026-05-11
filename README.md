@@ -1,10 +1,10 @@
 <div align="center">
   
  <p style="line-height: 1.8; font-size: 1.1em; max-width: 780px; margin: 30px auto;">
-    The universe has a beginning, but no end.<br>
+    The universe has a beginning, but no end.<br><br>
     — Infinity.<br><br>
-    Stars, too, have their own beginnings, but their own power results in their destruction.<br>
-   — Finite.
+    Stars, too, have their own beginnings, but their own power results in their destruction.<br><br>
+   — Finite.<br><br>
 </p>
 
 <div align="center" style="margin: 40px 0;">
