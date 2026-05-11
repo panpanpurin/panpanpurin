@@ -34,6 +34,10 @@
   </div>
 </div>
 
-##
-
-<image-card alt="Snake animation" src="https://raw.githubusercontent.com/panpanpurin/pan/output/github-contribution-grid-snake.svg"></image-card>
+ ##
+ 
+<div> 
+ 
+  ![Snake animation](https://raw.githubusercontent.com/panpanpurin/pan/output/github-contribution-grid-snake.svg)
+ 
+</div>
