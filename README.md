@@ -1,23 +1,11 @@
 <div align="center">
   
-  <p style="font-family: 'Courier New', Courier, monospace; 
-            line-height: 1.8; 
-            font-size: 1.1em; 
-            max-width: 780px; 
-            margin: 30px auto;">
-    
+ <p style="line-height: 1.8; font-size: 1.1em; max-width: 780px; margin: 30px auto;">
     The universe has a beginning, but no end.<br>
-    <span style="color: #ffeb3b; font-weight: bold;">— Infinity.</span><br><br>
-    
+    — Infinity.<br><br>
     Stars, too, have their own beginnings, but their own power results in their destruction.<br>
-    <span style="color: #ffeb3b; font-weight: bold;">— Finite.</span>
-  </p>
-
-  <!-- Divergence Meter -->
-  <img src="https://tenor.com/n2CWbJUvFiE.gif"
-       width="620"
-       alt="Steins;Gate Divergence Meter">
-</div>
+   — Finite.
+</p>
 
 <div align="center" style="margin: 40px 0;">
   <h3>Technologies & Tools</h3>
