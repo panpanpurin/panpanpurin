@@ -1,17 +1,17 @@
 <div align="center">
   
-  <div style="max-width: 820px; margin: 30px auto; line-height: 1.8; font-size: 1.15em;">
+  <p style="font-family: 'Courier New', Courier, monospace; 
+            line-height: 1.8; 
+            font-size: 1.1em; 
+            max-width: 780px; 
+            margin: 30px auto;">
     
-    <p style="font-family: 'Courier New', Courier, monospace; margin-bottom: 12px;">
-      The universe has a beginning, but no end.<br>
-      <span style="color: #ffeb3b; font-family: Georgia, serif; font-weight: bold;">— Infinity.</span>
-    </p>
+    The universe has a beginning, but no end.<br>
+    <span style="color: #ffeb3b; font-weight: bold;">— Infinity.</span><br><br>
     
-    <p style="font-family: 'Courier New', Courier, monospace;">
-      Stars, too, have their own beginnings, but their own power results in their destruction.<br>
-      <span style="color: #ffeb3b; font-family: Georgia, serif; font-weight: bold;">— Finite.</span>
-    </p>
-  </div>
+    Stars, too, have their own beginnings, but their own power results in their destruction.<br>
+    <span style="color: #ffeb3b; font-weight: bold;">— Finite.</span>
+  </p>
 
   <!-- Divergence Meter -->
   <img src="https://tenor.com/n2CWbJUvFiE.gif"
@@ -35,5 +35,5 @@
 </div>
 
 <div align="center">
-  ![Snake Animation](https://raw.githubusercontent.com/panpanpurin/panpanpurin/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://raw.githubusercontent.com/panpanpurin/pan/output/github-contribution-grid-snake.svg)
 </div>
