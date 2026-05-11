@@ -1,10 +1,11 @@
-### Hello! I'm Pan 🐱‍🐉
-
-Excited, curious and eager by nature. I like anything and everything that has felt and makes me feel, and above all, kind people.
-
 <div align="center">
-  <a href="https://github.com/Devssaurinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devssaurinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <!-- Divergence Meter -->
+  <img src="https://tenor.com/view/steins-gate-divergence-meter-gif-11648177079793850530" width="600" alt="Steins;Gate Divergence Meter">
+
+  <h2>El Psy Kongroo ⏳</h2>
+  <h3>World Line: 1.048596</h3>
+
 </div>
   
 <div style="display: inline_block"><br>
@@ -26,5 +27,6 @@ Excited, curious and eager by nature. I like anything and everything that has fe
   ![Snake animation](https://github.com/Devssaurinho/Devssaurinho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
 
 
