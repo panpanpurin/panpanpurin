@@ -13,18 +13,31 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <div align="center" style="margin: 40px 0;">
+  <h3>About Me</h3>
+
+  <p>
+    🎮 Game dev for fun<br>
+    🤖 Learning robotics, and highly enthusiastic about it<br>
+    📚 Love going out with friends, anime, games and books<br>
+    💬 I enjoy talking and meeting new people
+  </p>
+</div>
+
+<div align="center" style="margin: 40px 0;">
   <h3>Technologies & Tools</h3>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="38" alt="HTML5" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38" alt="CSS3" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" title="TypeScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38" alt="Python" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="38" alt="C" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="38" alt="PHP" title="PHP">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="38" alt="Lua" title="Lua">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="AWS" title="Amazon Web Services">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="38" alt="Azure" title="Microsoft Azure">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="38" alt="GCP" title="Google Cloud Platform">
   </div>
 </div>
 
