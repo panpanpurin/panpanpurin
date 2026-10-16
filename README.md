@@ -25,6 +25,8 @@
   </p>
 </div>
 
+<br>
+
 <div align="center">
   <h3>Technologies & Tools</h3>
 
