@@ -32,8 +32,6 @@
  
 <div> 
  
-  ![Snake animation](https://raw.githubusercontent.com/panpanpurin/pan/output/github-contribution-grid-snake.svg)
-
   ![Space shooter animation](https://raw.githubusercontent.com/panpanpurin/panpanpurin/output/gh-space-shooter.gif)
  
 </div>

@@ -1,4 +1,4 @@
-name: Generate Contribution Animations
+name: Generate Space Shooter Animation
 
 on:
   schedule:
@@ -7,20 +7,13 @@ on:
 
 jobs:
   build:
-    name: Generate Animations
+    name: Generate Space Shooter
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: panpanpurin
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      # Output is deployed with the snake instead of being committed to main
+      # Output is deployed to the output branch instead of being committed to main
       - name: Generate Space Shooter Animation
         uses: czl9707/gh-space-shooter@v2
         with:
