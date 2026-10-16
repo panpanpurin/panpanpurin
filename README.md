@@ -14,10 +14,15 @@
 
 </div>
 
-<div align="center">
+<div align="right">
   <h3>About Me</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9A0FF&center=true&vCenter=true&width=520&lines=Game+dev+for+fun;Learning+robotics,+and+highly+enthusiastic+about+it;Love+going+out+with+friends;Anime,+games+and+books;I+enjoy+talking+and+meeting+new+people" alt="Game dev for fun. Learning robotics, and highly enthusiastic about it. Love going out with friends, anime, games and books. I enjoy talking and meeting new people.">
+  <p>
+    🎮 Game dev for fun<br>
+    🤖 Learning robotics, and highly enthusiastic about it<br>
+    📚 Love going out with friends, anime, games and books<br>
+    💬 I enjoy talking and meeting new people
+  </p>
 </div>
 
 <div align="center">
@@ -31,7 +36,5 @@
 <div align="center">
 
   ![Space shooter animation](https://raw.githubusercontent.com/panpanpurin/panpanpurin/output/gh-space-shooter.gif)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=panpanpurin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
 
 </div>
