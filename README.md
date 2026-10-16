@@ -38,7 +38,7 @@
   ![Space shooter animation](https://raw.githubusercontent.com/panpanpurin/panpanpurin/output/gh-space-shooter.gif)
 
   <p>
-    <i>Any sufficiently advanced technology is indistinguishable from magic.</i> 🪄<br>
+    <i>Any sufficiently advanced technology is indistinguishable from magic</i> 🪄<br>
     — Arthur C. Clarke
   </p>
 
