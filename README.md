@@ -1,7 +1,7 @@
 <div align="center">
 
-  ˚　　　　✦　　　.　　. 🪐　 ˚　.　　　　 　　.　　　　　　 ✦　　　.　　˚　🌒　　　　. ✦ 　🌍  
- 　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.
+  ˚　　　　✦　　　.　　. 🪐　 ˚　.　　　　 　　.　　　　　　 ✦　　　.　　˚　🌒　　　　. ✦ 　🌍  
+ 　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.
  <p style="line-height: 1.8; font-size: 1.1em; max-width: 780px; margin: 30px auto;"><br>
     The universe has a beginning, but no end.<br><br>
     — Infinite 🌌<br><br>
@@ -9,42 +9,29 @@
    — Finite ⭐<br><br>
 </p>
 
-⠀⠀⠀˚　✦　.　.  ˚　.　 . ✦　　˚　 . ★ ⋆ . . 　˚ 　*　　✦　.　.　✦　˚ 　.˚　✦　.　　 . ✦⠀˚⠀⠀⠀
+⠀⠀⠀˚　✦　.　.  ˚　.　 . ✦　　˚　 . ★ ⋆ . . 　˚ 　*　　✦　.　.　✦　˚ 　.˚　✦　.　　 . ✦⠀˚⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-<div align="center" style="margin: 40px 0;">
-  <h3>About Me</h3>
-
-  <p>
-    🎮 Game dev for fun<br>
-    🤖 Learning robotics, and highly enthusiastic about it<br>
-    📚 Love going out with friends, anime, games and books<br>
-    💬 I enjoy talking and meeting new people
-  </p>
 </div>
 
-<div align="center" style="margin: 40px 0;">
+<div align="center">
+  <h3>About Me</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9A0FF&center=true&vCenter=true&width=520&lines=Game+dev+for+fun;Learning+robotics,+and+highly+enthusiastic+about+it;Love+going+out+with+friends;Anime,+games+and+books;I+enjoy+talking+and+meeting+new+people" alt="Game dev for fun. Learning robotics, and highly enthusiastic about it. Love going out with friends, anime, games and books. I enjoy talking and meeting new people.">
+</div>
+
+<div align="center">
   <h3>Technologies & Tools</h3>
-  
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="38" alt="HTML5" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38" alt="CSS3" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38" alt="Python" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="38" alt="C" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="38" alt="Lua" title="Lua">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="AWS" title="Amazon Web Services">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="38" alt="Azure" title="Microsoft Azure">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="38" alt="GCP" title="Google Cloud Platform">
-  </div>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,c,lua,aws,azure,gcp&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, Python, C++, C, Lua, AWS, Microsoft Azure, Google Cloud Platform">
 </div>
 
  ##
- 
-<div> 
- 
+
+<div align="center">
+
   ![Space shooter animation](https://raw.githubusercontent.com/panpanpurin/panpanpurin/output/gh-space-shooter.gif)
- 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=panpanpurin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+
 </div>
