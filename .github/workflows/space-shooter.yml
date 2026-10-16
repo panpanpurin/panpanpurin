@@ -5,23 +5,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Generate Space Shooter
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      # Output is deployed to the output branch instead of being committed to main
-      - name: Generate Space Shooter Animation
-        uses: czl9707/gh-space-shooter@v2
+      - name: Set up Python
+        uses: actions/setup-python@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: panpanpurin
-          output-path: dist/gh-space-shooter.gif
-          strategy: random
-          no-commit: true
+          python-version: "3.12"
+
+      # The CLI is used directly because the action always commits the GIF to main
+      - name: Generate Space Shooter Animation
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install gh-space-shooter
+          mkdir -p dist
+          gh-space-shooter panpanpurin --output dist/gh-space-shooter.gif --strategy random --fps 40
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
