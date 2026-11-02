@@ -20,7 +20,7 @@
   <p>
     🎮 Game dev for fun<br>
     🤖 Learning robotics, and highly enthusiastic about it<br>
-    📚 Love going out with friends, anime, games and books<br>
+    📚 Love going out with friends, anime, math, games and books<br>
     💬 I enjoy talking and meeting new people
   </p>
 </div>
